@@ -22,10 +22,10 @@
 
 ---
 
-🔭 Currently working at: Gononet Online Solutions Ltd.
-👨‍💻 All of my projects: https://ayantt.dev/
-📫 Contact me: ayantt@gmail.com
-📄 Resume: View my Resume
+🔭 Currently working at: Gononet Online Solutions Ltd.<br>
+👨‍💻 All of my projects: https://ayantt.dev/<br>
+📫 Contact me: ayantt@gmail.com<br>
+📄 Resume: View my Resume <br>
 
 --
 
