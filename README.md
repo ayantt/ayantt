@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F77B63&size=24&center=true&vCenter=true&width=600&lines=1234+🔭+Currently+working+at:+Gononet+Online+Solutions+Ltd.;👨‍💻+Explore+my+projects+at:+https://ayantt.dev/;📫+Contact+me+at:+ayantt@live.com;📄+Check+my+Resume+below!" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F77B63&size=24&center=true&vCenter=true&width=600&lines=12345+🔭+Currently+working+at:+Gononet+Online+Solutions+Ltd.;👨‍💻+Explore+my+projects+at:+https://ayantt.dev/;📫+Contact+me+at:+ayantt@live.com;📄+Check+my+Resume+below!" alt="Typing animation" />
 </p>
 
 ---
