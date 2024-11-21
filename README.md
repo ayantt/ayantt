@@ -22,6 +22,13 @@
 
 ---
 
+🔭 Currently working at: Gononet Online Solutions Ltd.
+👨‍💻 All of my projects: https://ayantt.dev/
+📫 Contact me: ayantt@gmail.com
+📄 Resume: View my Resume
+
+--
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/ayantt11" target="_blank">
