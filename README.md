@@ -17,15 +17,15 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F77B63&size=24&center=true&vCenter=true&width=600&lines=1234+🔭+Currently+working+at:+Gononet+Online+Solutions+Ltd.;👨‍💻+Explore+my+projects+at:+https://ayantt.dev/;📫+Contact+me+at:+ayantt@gmail.com;📄+Check+my+Resume+below!" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F77B63&size=24&center=true&vCenter=true&width=600&lines=1234+🔭+Currently+working+at:+Gononet+Online+Solutions+Ltd.;👨‍💻+Explore+my+projects+at:+https://ayantt.dev/;📫+Contact+me+at:+ayantt@live.com;📄+Check+my+Resume+below!" alt="Typing animation" />
 </p>
 
 ---
 
 🔭 Currently working at: Gononet Online Solutions Ltd.<br>
 👨‍💻 All of my projects: https://ayantt.dev/<br>
-📫 Contact me: ayantt@gmail.com<br>
-📄 Resume: View my Resume <br>
+📫 Contact me: ayantt@live.com<br>
+📄 Resume: <a href="[url](https://www.ayantt.dev/resume.pdf)">View my Resume</a><br>
 
 
 
